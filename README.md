@@ -13,7 +13,11 @@ limited to the following:
 3. Find the prime factorization of an integer
 4. Find the least common multiple (LCM) of a list of integers
 
-*Note: The class supports `int` or `Integer` objects. Large integers such as `long` instances are not supported.
+- `Primes.java` contains source code for all methods.
+- `Main.java` contains test snippets for methods of interest
+
+
+*Note: The class supports `int` or `Integer` objects. Large integers such as `long` instances are not supported. Additionally, only positive integers are supported.*
 
 ## Code Design
 
